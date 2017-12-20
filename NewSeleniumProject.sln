@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewSeleniumProject", "NewSeleniumProject\NewSeleniumProject.csproj", "{20456866-AE6F-4032-9B5B-C912DEF52299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TatAutomationFramework.Common", "TatAutomationFramework.Common\TatAutomationFramework.Common.csproj", "{982C00AA-3634-4FA5-8CF2-0265D01BDA2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20456866-AE6F-4032-9B5B-C912DEF52299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20456866-AE6F-4032-9B5B-C912DEF52299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20456866-AE6F-4032-9B5B-C912DEF52299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20456866-AE6F-4032-9B5B-C912DEF52299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{982C00AA-3634-4FA5-8CF2-0265D01BDA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982C00AA-3634-4FA5-8CF2-0265D01BDA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982C00AA-3634-4FA5-8CF2-0265D01BDA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982C00AA-3634-4FA5-8CF2-0265D01BDA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
