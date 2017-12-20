@@ -1,0 +1,51 @@
+c:\users\developement\documents\visual studio 2015\Projects\TatAutomationFramework\TatAutomationFramework.Common\bin\Debug\TatAutomationFramework.Common.dll
+c:\users\developement\documents\visual studio 2015\Projects\TatAutomationFramework\TatAutomationFramework.Common\bin\Debug\TatAutomationFramework.Common.pdb
+c:\users\developement\documents\visual studio 2015\Projects\TatAutomationFramework\TatAutomationFramework.Common\bin\Debug\WebDriver.dll
+c:\users\developement\documents\visual studio 2015\Projects\TatAutomationFramework\TatAutomationFramework.Common\bin\Debug\WebDriver.xml
+c:\users\developement\documents\visual studio 2015\Projects\TatAutomationFramework\TatAutomationFramework.Common\obj\Debug\TatAutomationFramework.Common.csprojResolveAssemblyReference.cache
+c:\users\developement\documents\visual studio 2015\Projects\TatAutomationFramework\TatAutomationFramework.Common\obj\Debug\TatAutomationFramework.Common.dll
+c:\users\developement\documents\visual studio 2015\Projects\TatAutomationFramework\TatAutomationFramework.Common\obj\Debug\TatAutomationFramework.Common.pdb
+G:\Gdrive\SDET Tutorials\SDET-06-Getting rid of the new\FinishFiles\TatAutomationFramework.Common\bin\Debug\TatAutomationFramework.Common.dll
+G:\Gdrive\SDET Tutorials\SDET-06-Getting rid of the new\FinishFiles\TatAutomationFramework.Common\bin\Debug\TatAutomationFramework.Common.pdb
+G:\Gdrive\SDET Tutorials\SDET-06-Getting rid of the new\FinishFiles\TatAutomationFramework.Common\bin\Debug\WebDriver.dll
+G:\Gdrive\SDET Tutorials\SDET-06-Getting rid of the new\FinishFiles\TatAutomationFramework.Common\bin\Debug\WebDriver.Support.dll
+G:\Gdrive\SDET Tutorials\SDET-06-Getting rid of the new\FinishFiles\TatAutomationFramework.Common\bin\Debug\WebDriver.xml
+G:\Gdrive\SDET Tutorials\SDET-06-Getting rid of the new\FinishFiles\TatAutomationFramework.Common\bin\Debug\WebDriver.Support.xml
+G:\Gdrive\SDET Tutorials\SDET-06-Getting rid of the new\FinishFiles\TatAutomationFramework.Common\obj\Debug\TatAutomationFramework.Common.dll
+G:\Gdrive\SDET Tutorials\SDET-06-Getting rid of the new\FinishFiles\TatAutomationFramework.Common\obj\Debug\TatAutomationFramework.Common.pdb
+G:\Gdrive\SDET Tutorials\SDET-10-Automation Reporting with Extent Report\SDET-08-Different Page Objects 2\TatAutomationFramework.Common\bin\Debug\TatAutomationFramework.Common.dll
+G:\Gdrive\SDET Tutorials\SDET-10-Automation Reporting with Extent Report\SDET-08-Different Page Objects 2\TatAutomationFramework.Common\bin\Debug\TatAutomationFramework.Common.pdb
+G:\Gdrive\SDET Tutorials\SDET-10-Automation Reporting with Extent Report\SDET-08-Different Page Objects 2\TatAutomationFramework.Common\bin\Debug\WebDriver.dll
+G:\Gdrive\SDET Tutorials\SDET-10-Automation Reporting with Extent Report\SDET-08-Different Page Objects 2\TatAutomationFramework.Common\bin\Debug\WebDriver.Support.dll
+G:\Gdrive\SDET Tutorials\SDET-10-Automation Reporting with Extent Report\SDET-08-Different Page Objects 2\TatAutomationFramework.Common\bin\Debug\WebDriver.xml
+G:\Gdrive\SDET Tutorials\SDET-10-Automation Reporting with Extent Report\SDET-08-Different Page Objects 2\TatAutomationFramework.Common\bin\Debug\WebDriver.Support.xml
+G:\Gdrive\SDET Tutorials\SDET-10-Automation Reporting with Extent Report\SDET-08-Different Page Objects 2\TatAutomationFramework.Common\obj\Debug\TatAutomationFramework.Common.csprojResolveAssemblyReference.cache
+G:\Gdrive\SDET Tutorials\SDET-10-Automation Reporting with Extent Report\SDET-08-Different Page Objects 2\TatAutomationFramework.Common\obj\Debug\TatAutomationFramework.Common.dll
+G:\Gdrive\SDET Tutorials\SDET-10-Automation Reporting with Extent Report\SDET-08-Different Page Objects 2\TatAutomationFramework.Common\obj\Debug\TatAutomationFramework.Common.pdb
+G:\Gdrive\SDET Tutorials\SDET-10-Automation Reporting with Extent Report\SDET-08-Different Page Objects 2\TatAutomationFramework.Common\bin\Debug\nunit.framework.dll
+G:\Gdrive\SDET Tutorials\SDET-10-Automation Reporting with Extent Report\SDET-08-Different Page Objects 2\TatAutomationFramework.Common\bin\Debug\RelevantCodes.ExtentReports.dll
+G:\Gdrive\SDET Tutorials\SDET-10-Automation Reporting with Extent Report\SDET-08-Different Page Objects 2\TatAutomationFramework.Common\bin\Debug\nunit.framework.xml
+C:\Users\Developement\Desktop\SDET-10-Selenium Reporting\TatAutomationFramework.Common\bin\Debug\TatAutomationFramework.Common.dll
+C:\Users\Developement\Desktop\SDET-10-Selenium Reporting\TatAutomationFramework.Common\bin\Debug\TatAutomationFramework.Common.pdb
+C:\Users\Developement\Desktop\SDET-10-Selenium Reporting\TatAutomationFramework.Common\bin\Debug\nunit.framework.dll
+C:\Users\Developement\Desktop\SDET-10-Selenium Reporting\TatAutomationFramework.Common\bin\Debug\RelevantCodes.ExtentReports.dll
+C:\Users\Developement\Desktop\SDET-10-Selenium Reporting\TatAutomationFramework.Common\bin\Debug\WebDriver.dll
+C:\Users\Developement\Desktop\SDET-10-Selenium Reporting\TatAutomationFramework.Common\bin\Debug\WebDriver.Support.dll
+C:\Users\Developement\Desktop\SDET-10-Selenium Reporting\TatAutomationFramework.Common\bin\Debug\nunit.framework.xml
+C:\Users\Developement\Desktop\SDET-10-Selenium Reporting\TatAutomationFramework.Common\bin\Debug\WebDriver.xml
+C:\Users\Developement\Desktop\SDET-10-Selenium Reporting\TatAutomationFramework.Common\bin\Debug\WebDriver.Support.xml
+C:\Users\Developement\Desktop\SDET-10-Selenium Reporting\TatAutomationFramework.Common\obj\Debug\TatAutomationFramework.Common.csprojResolveAssemblyReference.cache
+C:\Users\Developement\Desktop\SDET-10-Selenium Reporting\TatAutomationFramework.Common\obj\Debug\TatAutomationFramework.Common.dll
+C:\Users\Developement\Desktop\SDET-10-Selenium Reporting\TatAutomationFramework.Common\obj\Debug\TatAutomationFramework.Common.pdb
+C:\Users\Ernest\Documents\Visual Studio 2015\Projects\NewSeleniumProject\TatAutomationFramework.Common\bin\Debug\TatAutomationFramework.Common.dll
+C:\Users\Ernest\Documents\Visual Studio 2015\Projects\NewSeleniumProject\TatAutomationFramework.Common\bin\Debug\TatAutomationFramework.Common.pdb
+C:\Users\Ernest\Documents\Visual Studio 2015\Projects\NewSeleniumProject\TatAutomationFramework.Common\bin\Debug\nunit.framework.dll
+C:\Users\Ernest\Documents\Visual Studio 2015\Projects\NewSeleniumProject\TatAutomationFramework.Common\bin\Debug\RelevantCodes.ExtentReports.dll
+C:\Users\Ernest\Documents\Visual Studio 2015\Projects\NewSeleniumProject\TatAutomationFramework.Common\bin\Debug\WebDriver.dll
+C:\Users\Ernest\Documents\Visual Studio 2015\Projects\NewSeleniumProject\TatAutomationFramework.Common\bin\Debug\WebDriver.Support.dll
+C:\Users\Ernest\Documents\Visual Studio 2015\Projects\NewSeleniumProject\TatAutomationFramework.Common\bin\Debug\nunit.framework.xml
+C:\Users\Ernest\Documents\Visual Studio 2015\Projects\NewSeleniumProject\TatAutomationFramework.Common\bin\Debug\WebDriver.xml
+C:\Users\Ernest\Documents\Visual Studio 2015\Projects\NewSeleniumProject\TatAutomationFramework.Common\bin\Debug\WebDriver.Support.xml
+C:\Users\Ernest\Documents\Visual Studio 2015\Projects\NewSeleniumProject\TatAutomationFramework.Common\obj\Debug\TatAutomationFramework.Common.csprojResolveAssemblyReference.cache
+C:\Users\Ernest\Documents\Visual Studio 2015\Projects\NewSeleniumProject\TatAutomationFramework.Common\obj\Debug\TatAutomationFramework.Common.dll
+C:\Users\Ernest\Documents\Visual Studio 2015\Projects\NewSeleniumProject\TatAutomationFramework.Common\obj\Debug\TatAutomationFramework.Common.pdb
